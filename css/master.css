@@ -54,7 +54,7 @@ section {
 	/*TAGLINE*/
 	font-weight: 400;
 	font-size: 2em;
-	color: white;
+	color: #3498db;
 	text-align: center;
 	padding-top: 150px;
 }
@@ -79,7 +79,7 @@ section {
 .social {
 	font-size: 2em;
 	color: white;
-	padding: 20px;
+	padding-top: 120px;
 	bottom: 0;
 }
 
