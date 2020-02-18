@@ -171,3 +171,15 @@ h4 {
 	cursor: default;
 	font-size: 1.2em;
 }
+/*CONTACT*/
+.blue {
+	background: #3498db;
+	text-align: center;
+}
+.contact {
+	max-width: 500px;
+	margin: 0 auto;
+}
+.white-text {
+	color: white;
+}
