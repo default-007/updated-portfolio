@@ -138,3 +138,20 @@ h4 {
 .duration {
 	float: right;
 }
+
+/*PROJECTS*/
+.p-card {
+	display: flex;
+	flex-direction: row;
+	background-color: white;
+	border: 1px solid #070707;
+	border-radius: 5px;
+	margin-bottom: 30px;
+}
+.p-content {
+	flex: 1 1 auto;
+	padding: 1.25rem;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
