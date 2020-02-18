@@ -6,3 +6,35 @@ body {
 	background: rgba(168, 165, 165, 0.6);
 	margin: 0;
 }
+.logo {
+	width: 150px;
+	height: 80px;
+}
+#nav {
+	padding: 30px;
+}
+section {
+	margin: 100px;
+	padding: 2rem;
+}
+/*NAVBAR*/
+.navbar {
+	background-color: #070707;
+	top: 0;
+	width: 100%;
+	justify-content: center;
+	position: fixed;
+	display: flex;
+}
+.navbar a {
+	font-weight: 200;
+	color: white;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.anchor {
+	display: block;
+	position: relative;
+	top: -70px;
+	visibility: hidden;
+}
