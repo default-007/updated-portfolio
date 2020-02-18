@@ -109,3 +109,32 @@ h2 {
 	line-height: 1.5;
 	color: rgba(0, 0, 0, 0.75);
 }
+
+/*EDUCATION*/
+.card {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	border: 1px solid #070707;
+	border-radius: 0.25rem;
+	margin-bottom: 30px;
+}
+.card-header {
+	padding: 0.75rem 1.25rem;
+	background-color: #31b0d5;
+	border-bottom: 1px solid #070707;
+	border-top-left-radius: 0.25rem;
+	border-top-right-radius: 0.25rem;
+}
+.card-content {
+	padding: 0.25rem 1.25rem;
+	flex: 1 1 auto;
+}
+h4 {
+	margin: 0;
+	font-weight: 400;
+	color: #070707;
+}
+.duration {
+	float: right;
+}
