@@ -82,3 +82,30 @@ section {
 	padding: 20px;
 	bottom: 0;
 }
+
+/*ABOUT*/
+.doc-sec {
+	display: flex;
+}
+.white {
+	background: white;
+}
+div {
+	justify-content: center;
+}
+.main-content {
+	flex: 0 0 66.6%;
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+}
+h2 {
+	font-weight: 200;
+	font-size: 2rem;
+	color: #31b0d5;
+	text-transform: uppercase;
+	text-align: center;
+}
+.content-body {
+	line-height: 1.5;
+	color: rgba(0, 0, 0, 0.75);
+}
