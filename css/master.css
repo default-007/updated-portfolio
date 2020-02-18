@@ -38,3 +38,32 @@ section {
 	top: -70px;
 	visibility: hidden;
 }
+/*HEADER*/
+.header1 {
+	height: 100vh;
+	background-image: url(../images/headphones_black_close_up_153018_3840x2400.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin-bottom: 0;
+	display: flex;
+	flex-direction: column;
+}
+.header1-text {
+	/*TAGLINE*/
+	font-weight: 400;
+	font-size: 2em;
+	color: white;
+	text-align: center;
+	padding-top: 150px;
+}
+.header1-text h1 {
+	/*NAME*/
+	font-weight: 800;
+	font-size: 3em;
+	margin-bottom: 0;
+}
+.header1-text p {
+	margin: 0;
+}
