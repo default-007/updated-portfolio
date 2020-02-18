@@ -67,3 +67,18 @@ section {
 .header1-text p {
 	margin: 0;
 }
+/*SOCIAL*/
+.social-ul {
+	text-align: center;
+	padding-left: 0;
+}
+.social-li {
+	display: inline-block;
+	list-style: none;
+}
+.social {
+	font-size: 2em;
+	color: white;
+	padding: 20px;
+	bottom: 0;
+}
